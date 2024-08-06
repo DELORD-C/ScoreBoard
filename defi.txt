@@ -1,8 +1,8 @@
 0#calvin#Impressionne moi avec tes talents de jongleur#7
-1#calvin#PLATINE echecs#11
+1#calvin#PLATINE echecs#12
 2#calvin#platine echecs ++#5
 3#calvin#toto en jupe#5
-4#calvin#bonus test de defi onus#18
+4#calvin#bonus test de defi onus#28
 5#calvin#quete principale#0
 6#mimi#quete principale 2#0
 7#lucio#quete principale 3#0

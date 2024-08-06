@@ -1,6 +1,9 @@
 <?php
 
-    $filtre = $_POST['filtre'];
+    if (isset($_POST['filtre']))
+        $filtre = $_POST['filtre'];
+    else
+        $filtre = "";
     $listeDefi = array();
 	$fichierDefi = fopen("defi.txt", "r") or die("Unable to open file!");
     $i = 0;
