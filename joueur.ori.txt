@@ -1,0 +1,53 @@
+BOYER Oscar#8##0#0
+DEMBROSKI Edouard#7##0#0
+DREUILLAT Iwan#7##0#0
+GROMFELD Lucie#10##0#0
+HARPON FIGARO Ethanael#9##0#0
+JIAN Frank#9##0#0
+JOURDAN Leon#7##0#0
+LEDOS Gabriel#9##0#0
+LEMENNAIS Come#7##0#0
+LISOVYI Marco#9##0#0
+MARTINEAU Nathan#9##0#0
+PECHEUX Nael#6##0#0
+SASSIER Salome#9##0#0
+BELLANGER# lexis#14##0#0
+BENAIMECHE Ethan#12##0#0
+BOYER Maxime#11##0#0
+BRILLET Alexis#13##0#0
+CAMARA Silamaka#11##0#0
+CONSTANCIAS Felix#12##0#0
+CORLIN Augustin#11##0#0
+DAVID Noa#13##0#0
+DEFORGE Martin#12##0#0
+DIDES Anthony#13##0#0
+FOUCART Gabriel#11##0#0
+GENDRON Cael#12##0#0
+GIANOLIO Mael#11##0#0
+HILZHEBER Paul#11##0#0
+JIAN Dany#11##0#0
+JOUAN-BLONDEAUX Leon#13##0#0
+KOEU Leandre#10##0#0
+LE BERRE Mathis#13##0#0
+LEYMARIE Edouard#10##0#0
+LUCAS Adryen#11##0#0
+MARTINEAU Thibault#10##0#0
+PAPUCHON Cantin#12##0#0
+REMILIEN Damien#13##0#0
+ROSSIGNOL Martin#13##0#0
+ROUGER Germain#11##0#0
+RUIZ Luke#11##0#0
+SAINT-ROMAIN Emile#10##0#0
+SANNE Ylann#11##0#0
+STOURI Issa#12##0#0
+TOUCHAIS Raphael#13##0#0
+TROLET Marius#11##0#0
+DRKTP#21##1255000#0
+Directeur#21#Lucio#28000#0
+Nazir#21##13000#0
+Mimi#21##12500#0
+Raf#21##-200#0
+Calvin#21##9500#0
+Kirby#21##6500#0
+Fatalis#21##16300#0
+Zulgard#21##21800#0
